@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Bem vindo!"
 date: 2021-02-21
 ---
