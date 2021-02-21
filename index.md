@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Bem vindo ao meu blog
+## O lugar mais vazio da internet
 
-I'm glad you are here. I plan to talk about ...
+### Primeira publicação
+
+Não há uma primeira publicação.
